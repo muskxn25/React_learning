@@ -1,17 +1,4 @@
 # Getting Started with Create React App
-First create a react app
-Below are the points we will explore in the above react application:
-1. React routing
-2. React Components
-3. Datatble using any public api
-4. collect data using form and send data on any public api
-5. react state and props
-6. pass data from parent to child components and child to parent components
-
-Dependencies to install:
-npm install react-router-dom
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
